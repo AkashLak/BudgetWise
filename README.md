@@ -1,4 +1,4 @@
-# Decisionality💰📊
+# BudgetWise💰📊
 
 ## Overview
 This project is an automated financial tracking tool designed in Excel using **VBA (Visual Basic for Applications)**. It simplifies transaction logging, budgeting, and financial forecasting, offering valuable insights through dynamic pivot tables, charts, and secure login functionality. The tool saves time by reducing manual data entry by 40% and ensures user privacy and data integrity with a custom login system.
