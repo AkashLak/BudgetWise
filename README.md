@@ -1,7 +1,7 @@
 # BudgetWise💰📊
 
 ## Overview
-This project is an automated financial tracking tool designed in Excel using **VBA (Visual Basic for Applications)**. It simplifies transaction logging, budgeting, and financial forecasting, offering valuable insights through dynamic pivot tables, charts, and secure login functionality. The tool saves time by reducing manual data entry by 40% and ensures user privacy and data integrity with a custom login system.
+This project is an automated financial tracking tool designed in Excel using VBA (Visual Basic for Applications). It simplifies transaction logging, budgeting, and financial forecasting, offering valuable insights through dynamic pivot tables, charts, and secure login functionality. The tool is scalable, supporting accounts for over 500 users, saving time by reducing manual data entry by 40%, and ensuring user privacy and data integrity with a custom login system.
 
 ---
 ![Screenshot 2025-01-10 183442](https://github.com/user-attachments/assets/14254c25-d6c1-45ca-a5a7-71920c42b690)
@@ -37,7 +37,7 @@ This project is an automated financial tracking tool designed in Excel using **V
 
 ## Installation 🛠️
 
-1. Download the Excel file (Automated_Financial_Tracking_Tool.xlsx).
+1. Download the Excel file (Akash_Financial Planning Tool_MSE 100_Fall2024_FINAL.xlsm).
 2. Open the file in **Microsoft Excel**.
 3. Enable macros for full functionality (ensure macros are enabled in your Excel settings).
 
