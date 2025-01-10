@@ -1,7 +1,7 @@
 # BudgetWise💰📊
 
 ## Overview
-This project is an automated financial tracking tool designed in Excel using VBA (Visual Basic for Applications). It simplifies transaction logging, budgeting, and financial forecasting, offering valuable insights through dynamic pivot tables, charts, and secure login functionality. The tool is scalable, supporting accounts for over 500 users, saving time by reducing manual data entry by 40%, and ensuring user privacy and data integrity with a custom login system.
+This project is an automated financial tracking tool designed in ***Excel*** using ***VBA*** (Visual Basic for Applications). It simplifies transaction logging, budgeting, and financial forecasting, offering valuable insights through dynamic pivot tables, charts, and secure login functionality. The tool is scalable, supporting accounts for over ***500*** users, saving time by reducing manual data entry by ***40%***, and ensuring user privacy and data integrity with a custom login system.
 
 ---
 ![Screenshot 2025-01-10 183442](https://github.com/user-attachments/assets/14254c25-d6c1-45ca-a5a7-71920c42b690)
@@ -31,7 +31,7 @@ This project is an automated financial tracking tool designed in Excel using VBA
 - **Secure Login System 🔐**: Protects user data with a login feature that provides guest access and maintains privacy.
 - **Bill Reminders ⏰**: Set up reminders for upcoming bills to keep track of due payments.
 - **Report Exporting 🗒️**: Export detailed financial reports for personal or professional use.
-- **Reduced Manual Data Entry ⏳**: Save time and effort with the automated logging system, cutting manual data entry time by 40%.
+- **Reduced Manual Data Entry ⏳**: Save time and effort with the automated logging system, cutting manual data entry time by ***40%***.
 
 ---
 
